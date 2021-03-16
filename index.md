@@ -1,6 +1,9 @@
 
 ## Welcome to LiuPeiP's Page
 
+### Biography
+I am currently a Ph.D candidate in Institute of Information Engineering，Chinese Academy of Sciences studying on Information extraction and Threat Intelligence Analysis. In addition to that, I’m also interested in Visual Question Answering (VQA), Intelligent Robot. I earned my Master degree from joint-supervision of [Institute of Computing Technology](http://www.iie.ac.cn/) and [Shandong University of Science and Technology](https://www.sdust.edu.cn/), where I’m honored to have Professor [Shuqiang Jiang](http://vipl.ict.ac.cn/homepage/jsq/) as my academic advisor. I got my Bachelor’s degree from Shandong University of Science and Technology under the Professor [Qingtian Zeng](http://cise.sdust.edu.cn/home/Page/teacher_detail/catId/30/id/107.html) and [Peng Zhang](http://cise.sdust.edu.cn/home/page/details/catId/85/id/206.html), where I participated in several mathematic competitions.
+
 You can use the [editor on GitHub](https://github.com/LiuPeiP-CS/LiuPeiP.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
