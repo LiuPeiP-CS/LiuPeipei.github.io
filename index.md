@@ -12,7 +12,7 @@ I am currently a Ph.D candidate in Institute of Information Engineering，Chines
 &emsp;&emsp;2011.09～2015.06：Shandong University of Science and Technology（Top 5%）
 ### Publication
 &emsp;&emsp;**刘培培**,杨祥来.基于图像信息的话者识别[J].中国科技论文,2018,13(20):2388-2393.  
-&emsp;&emsp;Shuqin Zhang, Jinyang Wang,**Peipei Liu**.Trajectory prediction based on sparse spatiotemporal data[C].TThe 4th International Seminar on Artificial Intelligence, Networking and Information Technology(ANIT2020).Tianjin, China,Dec. 26-27, 2020.
+&emsp;&emsp;Shuqin Zhang, Jinyang Wang,**Peipei Liu**.Trajectory prediction based on sparse spatiotemporal data[C].TThe 4th International Seminar on Artificial Intelligence, Networking and Information Technology(ANIT2020).Tianjin, China,Dec. 26-27, 2020.  
 &emsp;&emsp;Zuoguang Wang,Hongsong Zhu,**Peipei Liu**, Limin Sun.Social Engineering in Cybersecurity: A Domain Ontology and Knowledge Graph Application Examples.《Cybersecurity》,in the manuscript In the process of submission.
 ### Project
 &emsp;&emsp;物联网安全本体与知识图谱构建（基于protege设计物联网设备安全本体，并在本体的指导下实现相关图谱的建立）  
