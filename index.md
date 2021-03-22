@@ -7,8 +7,7 @@ I am currently a Ph.D candidate in Institute of Information Engineering，Chines
 
 
 ### Education
-    
-### · 
+### \quad\bullet
 ### Publication
 ### Project
 ### Patent
