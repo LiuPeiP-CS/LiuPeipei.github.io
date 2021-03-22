@@ -3,8 +3,8 @@
 
 <table border="0">
   <tr>
-      <td width="50%">
-      <img src="/1.jpg" width="100%">      % 插入证件照代码
+      <td width="30%">
+      <img src="/1.jpg" width="30%">      % 插入证件照代码
     </td>
     <td width="80%">
       <h1>Peipei Liu</h1>
