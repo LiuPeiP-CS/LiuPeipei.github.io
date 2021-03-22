@@ -10,7 +10,7 @@
       <h1>Peipei Liu</h1>
       <p><b>Ph.D candidate</b></p>
       <p><b>Information Engineering，Chinese Academy of Sciences</b></p>
-      <p><b>Email:peipliu@yeah.net</b></p>
+      <p><b>peipliu@yeah.net</b></p>
       <p><b>Yiyuan Cultural and Creative Industry Base, Haidian District, Beijing 100195, P.R.China</b></p>
     </td>
 
