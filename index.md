@@ -7,9 +7,9 @@ I am currently a Ph.D candidate in Institute of Information Engineering，Chines
 
 
 ### Education
-   *2019.07～now:Institute of Information Engineering，Chinese Academy of Sciences  
-   *2016.09～2019.06：Institute of Computing Technology, Chinese Academy of Sciences；Shandong University of Science and Technology  
-   *2011.09～2015.06：Shandong University of Science and Technology
+&emsp;2019.07～now:Institute of Information Engineering，Chinese Academy of Sciences  
+>2016.09～2019.06：Institute of Computing Technology, Chinese Academy of Sciences；Shandong University of Science and Technology  
+>2011.09～2015.06：Shandong University of Science and Technology
 ### Publication
 ### Project
 ### Patent
