@@ -23,7 +23,7 @@
 
 
 ### Education
-&emsp;&emsp;2019.07～now:Institute of Information Engineering，Chinese Academy of Sciences  
+&emsp;&emsp;2019.07～now：Institute of Information Engineering，Chinese Academy of Sciences  
 &emsp;&emsp;2016.09～2019.06：Institute of Computing Technology, Chinese Academy of Sciences；Shandong University of Science and Technology  
 &emsp;&emsp;2011.09～2015.06：Shandong University of Science and Technology（Top 5%）
 ### Publication
