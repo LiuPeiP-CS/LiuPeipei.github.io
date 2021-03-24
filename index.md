@@ -4,7 +4,7 @@
 <table border="0">
   <tr>
     <td width="30%">
-      <img src="/1.jpg" width="110%">
+      <img src="/1.jpg" width="150%">
     </td>
     <td width="80%">
       <h1>Peipei Liu</h1>
