@@ -3,10 +3,10 @@
 
 <table border="0">
   <tr>
-    <td width="40%">
-      <img src="/1.jpg" width="150%">
+    <td width="30%">
+      <img src="/1.jpg" width="100%">
     </td>
-    <td width="100%">
+    <td width="70%">
       <h1>Peipei Liu</h1>
       <p><b>Ph.D candidate</b></p>
       <p><b>Institute of Information Engineering，Chinese Academy of Sciences</b></p>
